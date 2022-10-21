@@ -1,0 +1,16 @@
+{
+"name": "ledbet",
+"theme": "ledbet",
+"version": "4.2.2",
+"description": "ledbet สมัครเว็บไซต์สล็อตเว็บตรง ไม่มีขั้นต่ำ แจกโบนัสเครดิตฟรี",
+"keywords": [
+"ledbet",
+"ledbet เครดิตฟรี",
+"ledbet ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/ledbet",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
